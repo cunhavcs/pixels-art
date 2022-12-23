@@ -1,13 +1,21 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Pixels Art Project
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto desenvolvido com os conteúdos aprendidos na seção de `JavaScript: DOM, Eventos e Web Storage`:
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- `DOM (Document Object Model)` - representação de páginas por nós e objetos;
+
+- Seleção de elementos através das funções `getElementById`, `getElementsByClassName`, `getElementsByTagName`, `querySelector` e `querySelectorAll`;
+
+- Conceitos sobre `NodeList` e `HTMLCollection`;
+
+- Busca de elementos utilizando o `parentNode`, `parentElement`, `children`, `firstChild`, `nextSibling` e outros;
+
+- Criação de novos elementos utilizando `createElement()` e `appendChild()`;
+
+- Remoção de elementos utilizando `removeChild()` e `remove()`;
+
+- Criação de "escutador de eventos" - `addEventListener()` - para ações como o `click`, `change`, `mouseover`, `keyup`, entre outros;
+
+- Conceitos sobre o parâmetro `event` e o uso com `event.target` e `event.key`;
+
+- Conceitos e utilização do `localStorage` e `sessionStorage`;
